@@ -1,5 +1,5 @@
 # frozen_string_literal: true
 
 module PunditScaffoldGenerator
-  VERSION = "0.1.1"
+  VERSION = "0.1.2"
 end

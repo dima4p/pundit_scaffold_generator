@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    pundit_scaffold_generator (0.1.1)
+    pundit_scaffold_generator (0.1.2)
 
 GEM
   remote: https://rubygems.org/
