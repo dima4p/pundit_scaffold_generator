@@ -4,11 +4,11 @@ class <%= class_name %>Policy < ApplicationPolicy
     super
   end
 
-  def create?
+  def show?
     super
   end
 
-  def show?
+  def create?
     super
   end
 
