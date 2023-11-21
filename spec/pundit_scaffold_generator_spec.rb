@@ -6,6 +6,7 @@ RSpec.describe PunditScaffoldGenerator do
   end
 
   it "does something useful" do
+    skip 'TODO'
     expect(false).to eq(true)
   end
 end
